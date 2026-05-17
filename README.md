@@ -1,7 +1,3 @@
-Aqui está um **README básico, direto e pronto para GitHub** do seu projeto:
-
----
-
 # Hotel Nebula — Banco de Dados
 
 Este projeto tem como objetivo modelar e implementar um banco de dados para o sistema do **Hotel Nebula**, organizando informações de hóspedes, quartos, reservas, hospedagens, pagamentos, funcionários, serviços e avaliações.
